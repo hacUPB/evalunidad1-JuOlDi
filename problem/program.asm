@@ -1,6 +1,6 @@
-//Juliana Olarte Dittrich
-//000443952
-//juliana.olarte@upb.edu.co
+// COLOCA AQUÍ TU NOMBRE COMPLETO:  Juliana Olarte Dittrich
+// COLOCA AQUÍ TU ID: 000443952
+// COLOCA AQUÍ TU CORREO ELECTRÓNICO: juliana.olarte@upb.edu.co
 
 (INICIO) 
         @KBD
