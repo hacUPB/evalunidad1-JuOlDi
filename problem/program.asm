@@ -49,8 +49,10 @@
         D=A 
         @SALTAR
         M=D
+        @256
+        D=A
         @COLOR
-        M=1
+        M=D
         @BOOLEANO
         M=0
         @DIR1
